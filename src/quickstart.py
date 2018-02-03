@@ -88,7 +88,7 @@ def main():
             'useDefault': True,
         },
     }
-    service.events().insert(calendarId='primary', body=event).execute()
+    #service.events().insert(calendarId='primary', body=event).execute()
     print('CYCLONE JOKER')
     ################
 
