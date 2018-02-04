@@ -2,7 +2,7 @@
 For HackHealth 2018 at Stony Brook, me and my team built a web app designed to help stressed out college students take much needed breaks to refuel and become more productive.
 
 Our app made use of multiple frameworks and technologies, such as:
-- Python (backend)
+- Python, including the Flask framework (backend)
 - HTML/CSS (front-end)
 - Google Calendar API (backend)
 - Spotify API (front-end)
